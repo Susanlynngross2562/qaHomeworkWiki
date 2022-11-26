@@ -14,3 +14,4 @@ describe("myFunction", () => {
     expect(myFunction(-1)).toBe("negative");
   });
 });
+
